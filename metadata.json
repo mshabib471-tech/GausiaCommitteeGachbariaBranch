@@ -1,0 +1,8 @@
+{
+  "name": "Gausia Committee Gachbaria Branch",
+  "description": "Official portal for Gausia Committee Bangladesh, Gachbaria Government College Branch featuring news, events, and community updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
