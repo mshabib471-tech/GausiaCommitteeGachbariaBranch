@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1a5d3b;
+  --color-accent: #c1a051;
+  --color-accent-hover: #2a8d5b;
+}
+
+body {
+  @apply bg-[#fdfcf0] text-slate-900;
+}
